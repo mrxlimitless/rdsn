@@ -26,7 +26,7 @@
 
 [![Build Status](https://travis-ci.org/XiaoMi/rdsn.svg?branch=master)](https://travis-ci.org/XiaoMi/rdsn)
 
-All pull requests please now go to https://github.com/imzhenyu/rdsn for automatic integration with latest version. We will periodically update this repo. Thank you.
+All pull requests please now go to https://github.com/imzhenyu/rdsn for automatic integration with latest version. We will periodically update this repo. Thank you..
 
 ### Top Links
  * [[Case](https://github.com/imzhenyu/rocksdb)] RocksDB made replicated using rDSN!
